@@ -4,6 +4,7 @@
 
 - <b>Azure Cloud Projects</b>
   - [Creating a Live Honynet & SOC](https://github.com/bksankara/Azure-SOC)
+  - [Vulnerability Management and Remediation] (sdfsddfs).
 
 
 
